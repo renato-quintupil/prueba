@@ -1,2 +1,2 @@
-# prueba
+# Prueba
 Repositorio de pruebas
